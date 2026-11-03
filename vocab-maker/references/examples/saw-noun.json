@@ -1,0 +1,31 @@
+{
+  "word": "Saw (N)",
+  "category": "Noun",
+  "level": "A2",
+  "ipa": "/sɔː/",
+  "chunks": "s-aw",
+  "definition": "A tool with a sharp blade for cutting wood.",
+  "arabic": "منشار",
+  "context": "My uncle put the old chair on two boxes in the yard, picked up his ==saw== and started cutting the broken leg before the wood split more.",
+  "example": "I cut wood with a small saw.",
+  "notes": {
+    "word_translations": [
+      "منشار"
+    ],
+    "example_translation": "قطعت خشب بمنشار صغير",
+    "grammar_note": "الاسم بيتعد: a saw، two saws، ودي حاجة بتلمسها بإيدك على عكس الفعل saw.",
+    "curiosity": "الاسم وال فعل ليهم نفس الشكل بالحروف، بس الاسم بنحط قبله a أو the والفعل بنحط بعده مفعول.",
+    "word_family": [
+      {
+        "form": "Saw (V)",
+        "type": "Verb",
+        "arabic": "شفت",
+        "example": "I saw my brother at the station"
+      }
+    ],
+    "common_examples": [
+      "My dad keeps his ==saw== in the shed."
+    ],
+    "try_it": "قول جملة فيها a ==saw== وإنت بتوصف حاجة بتقطعها في البيت."
+  }
+}

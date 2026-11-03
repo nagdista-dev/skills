@@ -1,0 +1,32 @@
+{
+  "_default": "B1",
+  "contraction_sets": {
+    "basic": ["I'm", "I'm not", "don't", "doesn't", "can't", "isn't", "it's", "that's"],
+    "standard": ["I've", "I'd", "I'll", "won't", "wouldn't", "couldn't", "shouldn't", "didn't", "haven't", "hasn't", "aren't", "wasn't", "weren't", "let's", "you're", "we're", "they're"]
+  },
+  "slang_terms": ["gonna", "wanna", "kinda", "gotta", "sorta", "lemme", "gimme"],
+  "formatting": {
+    "backticks_max_per_paragraph": 4,
+    "plain_terms": ["American English", "British English", "English", "Egyptian", "Arabic", "OK", "CEFR", "IPA", "TV", "YouTube", "Google", "WhatsApp", "Facebook", "Instagram", "iPhone", "Wi-Fi", "Oxford", "Cambridge"]
+  },
+  "levels": {
+    "A1": {"example": {"max_words": 7, "target_words": [4, 6], "contractions": "basic",    "slang": false, "style_hint": "concrete daily things: food, phone, family, routine"},
+           "definition": {"max_words": 8},  "context": {"max_words": 25}, "audio": {"rate": "-25%"},
+           "notes": {"max_sentences_per_note": 2, "extras_max": 3, "try_it": true,  "arabic_register": "very simple", "family_max": 1, "collocations_max": 2}},
+    "A2": {"example": {"max_words": 7, "target_words": [5, 7], "contractions": "basic",    "slang": false, "style_hint": "daily plans, shopping, transport, friends"},
+           "definition": {"max_words": 10}, "context": {"max_words": 35}, "audio": {"rate": "-20%"},
+           "notes": {"max_sentences_per_note": 2, "extras_max": 4, "try_it": true,  "arabic_register": "simple", "family_max": 2, "collocations_max": 2}},
+    "B1": {"example": {"max_words": 9, "target_words": [5, 8], "contractions": "standard", "slang": false, "style_hint": "work, study, opinions, small problems"},
+           "definition": {"max_words": 12}, "context": {"max_words": 50}, "audio": {"rate": "-15%"},
+           "notes": {"max_sentences_per_note": 3, "extras_max": 5, "try_it": true,  "arabic_register": "normal", "family_max": 3, "collocations_max": 3}},
+    "B2": {"example": {"max_words": 9, "target_words": [6, 9], "contractions": "standard", "slang": true,  "style_hint": "work talk, plans, feelings, news"},
+           "definition": {"max_words": 15}, "context": {"max_words": 65}, "audio": {"rate": "-10%"},
+           "notes": {"max_sentences_per_note": 4, "extras_max": 6, "try_it": false, "arabic_register": "normal", "family_max": 3, "collocations_max": 4}},
+    "C1": {"example": {"max_words": 10, "target_words": [6, 10], "contractions": "standard", "slang": true, "style_hint": "abstract topics, workplace, current affairs"},
+           "definition": {"max_words": 18}, "context": {"max_words": 80}, "audio": {"rate": "-5%"},
+           "notes": {"max_sentences_per_note": 5, "extras_max": 6, "try_it": false, "arabic_register": "rich", "family_max": 4, "collocations_max": 4}},
+    "C2": {"example": {"max_words": 10, "target_words": [6, 10], "contractions": "standard", "slang": true, "style_hint": "abstract topics, nuance, register"},
+           "definition": {"max_words": 18}, "context": {"max_words": 80}, "audio": {"rate": "+0%"},
+           "notes": {"max_sentences_per_note": 5, "extras_max": 6, "try_it": false, "arabic_register": "rich", "family_max": 4, "collocations_max": 5}}
+  }
+}

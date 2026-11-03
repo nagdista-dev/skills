@@ -1,0 +1,29 @@
+{
+  "word": "Mitigate",
+  "category": "Verb",
+  "level": "C1",
+  "ipa": "/ˈmɪtɪɡeɪt/",
+  "definition": "To make a problem or bad effect less severe or serious.",
+  "arabic": "يخفف - يحد من",
+  "summary": "بقولها لما أخفف الضرر مش لما أحل المشكلة من جذرها",
+  "context": "The CEO slammed the folder shut — the product launch was in 48 hours and the only way forward was to mitigate the damage before the press found out.",
+  "chunks": "mit-i-gate",
+  "example": "I'll mitigate the risk before we launch.",
+  "notes": {
+    "word_translations": [
+      "يخفف، يحد من حدة شيء"
+    ],
+    "example_translation": "هخفف المخاطرة قبل ما نبدأ",
+    "grammar_note": "فعل متعد `mitigate something` وما بياخدش حرف جر وغالبا مع `risk` و`damage`",
+    "curiosity": "كتير بيخلطوا بين `mitigate` و`eliminate` — الأولى تقلل الضرر لكن مش تلغيه وده فرق مهم في الشغل",
+    "synonyms": [
+      "`alleviate`",
+      "`ease`"
+    ],
+    "common_examples": [
+      "We mitigate the risk before we launch.",
+      "The new plan helps mitigate the damage to the brand."
+    ],
+    "important_notes": "`Mitigate` رسمية أكتر من `reduce`"
+  }
+}

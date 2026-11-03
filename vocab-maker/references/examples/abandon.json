@@ -1,0 +1,42 @@
+{
+  "word": "Abandon",
+  "category": "Verb",
+  "level": "B1",
+  "ipa": "/əˈbændən/",
+  "definition": "To leave someone or something permanently.",
+  "arabic": "يتخلى عن - يترك",
+  "context": "Ahmed stood at the door of the burning building — he had already abandoned everything inside and there was no going back.",
+  "chunks": "a-ban-don",
+  "example": "I abandoned the project after it failed.",
+  "notes": {
+    "word_translations": [
+      "يترك شيئًا نهائيًا",
+      "أسيبه"
+    ],
+    "example_translation": "سيبت المشروع بعد ما فشل",
+    "curiosity": "كلمة `abandon` بتخدع عشان `abandoned` كصفة معناها مهجور لكن الفعل معناها تتخلى بإرادتك",
+    "word_family": [
+      {
+        "form": "Abandonment",
+        "type": "Noun",
+        "arabic": "التخلي",
+        "example": "The abandonment of the project surprised everyone"
+      },
+      {
+        "form": "Abandoned",
+        "type": "Adjective",
+        "arabic": "مهجور",
+        "example": "The abandoned house is empty"
+      }
+    ],
+    "common_examples": [
+      "We had to abandon the plan after two weeks of no progress."
+    ],
+    "common_mistakes": "ما تقولش `abandon` لو هترجع تاني؛ ساعتها `leave` أدق",
+    "synonyms": [
+      "`leave`",
+      "`desert`"
+    ],
+    "try_it": "قول `I abandoned the project after it failed` عن شغل سبته قريب"
+  }
+}

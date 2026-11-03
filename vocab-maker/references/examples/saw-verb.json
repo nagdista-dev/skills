@@ -1,0 +1,32 @@
+{
+  "word": "Saw (V)",
+  "category": "Verb",
+  "level": "A2",
+  "ipa": "/sɔː/",
+  "chunks": "s-aw",
+  "definition": "Past form of see: your eyes took something in.",
+  "arabic": "شفت - رأيت",
+  "context": "Tarek was standing at the station looking around for his brother; he ==saw== him near the ticket window and waved with both hands.",
+  "example": "I saw my brother at the station.",
+  "notes": {
+    "word_translations": [
+      "شفت",
+      "رأيت"
+    ],
+    "example_translation": "شفت أخويا في المحطة",
+    "grammar_note": "دي صيغة الماضي من see، وبتتقال عن لحظة عدت وخلصت: I saw him yesterday. أما المضارع فهو see أو am seeing.",
+    "curiosity": "كلمة saw بتخدع في القراءة لأن نفس الحروف بتطلع فعل ماضي واسم منشار في نفس الوقت، والجملة هي اللي بتحدد.",
+    "word_family": [
+      {
+        "form": "Saw (N)",
+        "type": "Noun",
+        "arabic": "منشار",
+        "example": "I cut wood with a small saw"
+      }
+    ],
+    "common_examples": [
+      "I ==saw== my teacher at the market."
+    ],
+    "try_it": "احكي حاجة ==saw==ها النهاردة في جملة واحدة صغيرة."
+  }
+}

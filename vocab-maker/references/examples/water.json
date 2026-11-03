@@ -1,0 +1,24 @@
+{
+  "word": "Water",
+  "category": "Noun",
+  "level": "A1",
+  "ipa": "/ˈwɔːtər/",
+  "definition": "The clear liquid we drink every day.",
+  "arabic": "ماء",
+  "summary": "بستخدمها من غير عدد حتى لو كتير وده اللي بيخليها مميزة",
+  "context": "Omar's hands were shaking — he grabbed the only glass of water on the table and drank it all in one go.",
+  "chunks": "wa-ter",
+  "example": "I drink water every morning.",
+  "notes": {
+    "word_translations": [
+      "ماء"
+    ],
+    "example_translation": "بشرب مية كل صبح",
+    "grammar_note": "غالبا `water` من غير `a` فبنقول `some water` ولو عايز تعد بتقول `a bottle of water`",
+    "common_examples": [
+      "Can I get a glass of water, please?"
+    ],
+    "curiosity": "كلمة `water` ملهاش جمع عادي فبنقول `some water` حتى لو كتير وده فخ كبير عشان متقولش `waters`",
+    "try_it": "قول `I drink water every morning` وانت بتملا الإزازة الصبح"
+  }
+}
