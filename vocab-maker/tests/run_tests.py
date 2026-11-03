@@ -436,7 +436,8 @@ class VocabMakerTests(unittest.TestCase):
         examples_dir = SKILL_ROOT / "references" / "examples"
         mapping = {
             "abandon": ("example_abandon.md", 0),
-            "saw": ("example_abandon.md", 1),
+            "saw-verb": ("example_abandon.md", 1),
+            "saw-noun": ("example_abandon.md", 2),
             "water": ("example_water.md", 0),
             "mitigate": ("example_mitigate.md", 0),
         }

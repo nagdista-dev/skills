@@ -213,6 +213,27 @@ review: 2026-10-26
 
 ---
 
+## Saw (V) Gang
+
+```base
+views:
+  - type: table
+    name: Saw (V) Gang
+    filters:
+      and:
+        - file.inFolder("English/Vocabulary/S")
+        - category == "Verb"
+        - status == "Done"
+    order:
+      - file.name
+      - pronunciation
+      - voice
+      - image
+      - review
+    columnSize:
+      note.pronunciation: 155
+      note.voice: 155
+```
 ```
 
 ### Resulting note 2 (`Vocabulary/S/Saw (N).md`)
@@ -294,6 +315,27 @@ review: 2026-10-26
 
 ---
 
+## Saw (N) Gang
+
+```base
+views:
+  - type: table
+    name: Saw (N) Gang
+    filters:
+      and:
+        - file.inFolder("English/Vocabulary/S")
+        - category == "Noun"
+        - status == "Done"
+    order:
+      - file.name
+      - pronunciation
+      - voice
+      - image
+      - review
+    columnSize:
+      note.pronunciation: 155
+      note.voice: 155
+```
 ```
 
 Both notes end with their own `## {Word} Gang` base block, filtered on their own letter folder and their own `category`, exactly like the `Abandon` example above.
